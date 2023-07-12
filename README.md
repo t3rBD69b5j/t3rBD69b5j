@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently BEING ALL HUMAN TO JESUS CHRIST 
+- 🌱 I’m currently HAVE ALL POWER ON EARTH BELONG TO ME SAY TO ME BY JESUS CHRIST SON OF LIVING GOD 
+AM HERE THOUGHT THE POWER OF JESUS CHRIST SON OF LIVING GOD 
+- 🤔 I’m here to save all humans 
+- 💬 Ask me about ... Revelation 1:to the end
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... LOVE JESUS CHRIST 
+- ⚡ Fun fact: ... ALL POWER ON EARTH BELONG TO ME AND ALL GORRY BELONGS TO JESUS CHRIST SON OF LIVING GOD WHO CREATED HEAVEN AND EARTH 🙏 GREAT THINGS HE HAVE DONE 💖. SAY BY GOD FIRST JOHN JAMES 
 -->
 # This is a basic workflow to help you get started with JESUS CHRIST ❤️ 
 ALL GLORY TO GOD WHO CREATED HEAVEN AND EARTH GREAT THINGS HE HAVE DONE 
@@ -50,5 +50,5 @@ jobs:MARBLE WORK
       # Runs a set of commands using the runners shell
       +name: Run a multi-line script
         run: JESUS CHRIST ❤️ 
-          echo Add other actions to 🏢, JESUS CHRIST ❤️ ALL WISDOM SHALL BE MIND 
-          echo test, and deploy your PROJECT MANAGEMENT  O ALL POWER
+          echo Add other actions to 🏢, JESUS CHRIST ❤️ ALL WISDOM SHALL BE MIND  JESUS CHRIST SON OF LIVING GOD I COME HE LOVE YOU 
+          echo test, and deploy your PROJECT MANAGEMENT  of ALL POWER
